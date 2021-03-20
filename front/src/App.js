@@ -68,7 +68,7 @@ class App extends Component {
             ></BoardInput>
           </Route>
           <Route path="/til">
-            <Til></Til>
+            <Til data={this.getReadContents()}></Til>
           </Route>
           <Route path="/login">
             <Til></Til>
