@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.3c1505a7.chunk.css",
+    "main.js": "/static/js/main.ce7f014b.chunk.js",
+    "main.js.map": "/static/js/main.ce7f014b.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.594ce3c0.js",
+    "runtime-main.js.map": "/static/js/runtime-main.594ce3c0.js.map",
+    "static/js/2.49637cb4.chunk.js": "/static/js/2.49637cb4.chunk.js",
+    "static/js/2.49637cb4.chunk.js.map": "/static/js/2.49637cb4.chunk.js.map",
+    "static/js/3.801b1faf.chunk.js": "/static/js/3.801b1faf.chunk.js",
+    "static/js/3.801b1faf.chunk.js.map": "/static/js/3.801b1faf.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.3c1505a7.chunk.css.map": "/static/css/main.3c1505a7.chunk.css.map",
+    "static/js/2.49637cb4.chunk.js.LICENSE.txt": "/static/js/2.49637cb4.chunk.js.LICENSE.txt",
+    "static/media/Dog_23.e8a279f4.png": "/static/media/Dog_23.e8a279f4.png",
+    "static/media/boardInput.css": "/static/media/lightmode_bg.cda29fed.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.594ce3c0.js",
+    "static/js/2.49637cb4.chunk.js",
+    "static/css/main.3c1505a7.chunk.css",
+    "static/js/main.ce7f014b.chunk.js"
+  ]
+}
