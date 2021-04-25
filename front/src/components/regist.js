@@ -13,24 +13,6 @@ function Regist() {
     console.log("data", data)
   }
 
-  // const oracledb = require("oracledb")
-  // oracledb.getConnection(
-  //   {
-  //     user: "test",
-  //     password: "1234",
-  //     host: "localhost",
-  //     database: "x e",
-  //   },
-  //   function (err, conn) {
-  //     if (err) {
-  //       console.log("실패", err)
-  //       return
-  //     }
-
-  //     console.log("성공")
-  //   }
-  // )
-
   // $(function () {
   //   $("#submit").click(function () {
   //     var userid = $(".maininput").val()
@@ -51,6 +33,7 @@ function Regist() {
   //     }
   //   })
   // })
+
   return (
     <form id="mainform" onSubmit={handleSubmit(onSubmit)}>
       <div id="labelform">이메일</div>
