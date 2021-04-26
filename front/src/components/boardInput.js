@@ -18,13 +18,13 @@ class BoardInput extends Component {
         <div className="addArticle_container">
           <div className="addArticle_form">
             <form
-              action="/"
+              action="/addBoard"
               method="post"
-              onSubmit={function (e) {
-                e.preventDefault()
-                this.props.onSubmit(e.target.title.value, e.target.desc.value)
-                alert("goood")
-              }.bind(this)}
+              // onSubmit={function (e) {
+              //   e.preventDefault()
+              //   this.props.onSubmit(e.target.title.value, e.target.desc.value)
+              //   alert("goood")
+              // }.bind(this)}
             >
               <div className="addArticle_title">
                 <h2>제목</h2>
@@ -39,7 +39,7 @@ class BoardInput extends Component {
               </div>
               <div className="addArticle_contents">
                 <h2>내용</h2>
-                <textarea name="desc" id="" cols="30" rows="10"></textarea>
+                <textarea name="contents" id="" cols="30" rows="10"></textarea>
               </div>
               <div className="addArticle_submit">
                 <button onClick={this.go}>submit</button>

@@ -8,6 +8,7 @@ import Regist from "./components/regist"
 import Til from "./components/til"
 import Board from "./components/board"
 import BoardInput from "./components/boardInput"
+import "bootstrap/dist/css/bootstrap.min.css"
 
 // import NavAttend from "./components/nav_attendance"
 import ContentAttend from "./components/content_attendance"
